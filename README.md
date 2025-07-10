@@ -215,7 +215,7 @@ tf1 = Entry(main,width=70)
 tf1.config(font=font)
 tf1.place(x=160,y=650)
 
-detectButton = Button(main, text="Language Detection & Translation", command=detectLanguage)
+detectButton = Button(main, text="Language Detection & Translation", command=detectLanguage) 
 detectButton.place(x=970,y=650)
 detectButton.config(font=font1)
 
