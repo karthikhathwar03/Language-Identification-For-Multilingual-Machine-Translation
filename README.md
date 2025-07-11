@@ -1,4 +1,4 @@
-Language Identification for Multilingual Machine Translation
+#Language Identification for Multilingual Machine Translation
 
 This project is a desktop application that identifies the language of an input text and translates it into a selected target language. It uses machine learning models for language detection and integrates Google Translate for real-time translation. The project is built with a user-friendly GUI using Tkinter.
 
@@ -12,9 +12,9 @@ This project is a desktop application that identifies the language of an input t
 
 🧠 Machine Learning Models Used
 
-* K-Nearest Neighbors (KNN)**
-* Support Vector Machine (SVM)**
-* Random Forest Classifier**
+* K-Nearest Neighbors (KNN)
+* Support Vector Machine (SVM)
+* Random Forest Classifier
 
 🧰 Technologies & Tools
 
